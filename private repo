@@ -1,0 +1,6 @@
+cd L1J-3.8-launcher-main
+git init
+git add .
+git commit -m "init"
+git remote add origin https://github.com/KINGGM0330/private repo.git
+git push -u origin main
